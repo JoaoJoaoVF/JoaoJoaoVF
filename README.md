@@ -3,7 +3,7 @@
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif"> 
 
-- 📚 I'm a second year student at the Universidade Federal de Minas Gerais (UFMG)
+- 📚 I'm a 2rd Year undergraduate from <a href="https://ufmg.br/"> <b>Universidade Federal de Minas Gerais</b>, UFMG</a>.
 ---
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoJoaoVF&theme=nightowl&show_icons=true">
@@ -16,4 +16,4 @@
 ---
 
 ## Social media
-<a href="www.linkedin.com/in/joao-vitor-ferreira-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://codeforces.com/profile/ludemelo5452"> <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"> </a>
+<a href="www.linkedin.com/in/joao-vitor-ferreira-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
