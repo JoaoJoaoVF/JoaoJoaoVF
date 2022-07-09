@@ -1,7 +1,7 @@
 ## João Vitor Ferreira
-### <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"> Hello World!
+### <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="50"> Hello World!
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif"> 
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif"> 
 
 - 📚 I'm a 2rd Year undergraduate from <a href="https://ufmg.br/"> <b>Universidade Federal de Minas Gerais</b>, UFMG</a>.
 ---
