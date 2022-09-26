@@ -1,19 +1,52 @@
-## João Vitor Ferreira
-### <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="50"> Hello World!
+<h1 align="left">Hi there 👋, I'm João Vitor Ferreira</h1>
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif"> 
+<p align="left"> <img
+        src="https://komarev.com/ghpvc/?username=joaojoaovfv&label=Profile%20views&color=0e75b6&style=flat"
+        alt="davidcostadev" /> </p>
 
-- 📚 I'm a 2rd Year undergraduate from <a href="https://ufmg.br/"> <b>Universidade Federal de Minas Gerais</b>, UFMG</a>.
----
+## 📝 About Me
+<img width="40%" height="400px" align="right"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaojoaovf&layout=compact&theme=merko&count_private=true"
+    alt="joao-vitor-ferreira" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoJoaoVF&theme=nightowl&show_icons=true">
+<p>- 📚 I'm a 2rd Year undergraduate from <a href="https://ufmg.br/"><b>Universidade Federal de Minas
+            Gerais</b>,UFMG</a></p>
 
----
+## 🌱 I’m currently learning
 
-##  I'm learning:
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" ></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+|
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+|
+<code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="45" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+|
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 
----
 
-## Social media
-<a href="https://www.linkedin.com/in/joao-vitor-ferreira-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+## 📫 Social Networks
+
+<a href="https://www.linkedin.com/in/joao-vitor-ferreira-" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+        width="40" height="32" alt="linkedin logo" />
+</a>
+<a href="https://www.instagram.com/_joao.vf_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
+        width="40" height="32" alt="instagram logo" />
+</a>
+<a href="https://www.discordapp.com/users/JoaoJoaoVF#9051" target="_blank"><img
+        src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"
+        width="40" height="32" alt="instagram logo" />
+</a>
+
+
+![Snake animation](https://github.com/JoaoJoaoVF/JoaoJoaoVF/blob/output/github-contribution-grid-snake.svg)
