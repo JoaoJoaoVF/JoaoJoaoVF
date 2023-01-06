@@ -9,7 +9,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaojoaovf&layout=compact&theme=merko&count_private=true"
     alt="joao-vitor-ferreira" />
 
-<p>- 📚 I'm a 2rd Year undergraduate from <a href="https://ufmg.br/"><b>Universidade Federal de Minas
+<p>- 📚 I'm a 3rd Year undergraduate from <a href="https://ufmg.br/"><b>Universidade Federal de Minas
             Gerais</b>,UFMG</a></p>
 
 ## 🌱 I’m currently learning
