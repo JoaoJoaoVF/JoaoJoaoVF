@@ -1,7 +1,5 @@
 <h1 align="left">Hi there 👋, I'm João Vitor Ferreira</h1>
 
-<h1 align="left">João Vitor Ferreira</h1>
-
 ## About Me
 I am a third-year undergraduate student at [Universidade Federal de Minas Gerais (UFMG)](https://ufmg.br/).
 
