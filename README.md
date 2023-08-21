@@ -34,18 +34,13 @@ I am currently working as a research intern at [Wireless Networks Lab (WINET)](h
 
 ## GitHub Stats
 <div align="center">
-    <p>
-        <a href="">
-            <img align="center" height="180em"
-                src="https://github-readme-stats.vercel.app/api?username=joaojoaovf&layout=compact&theme=transparent&hide_border=true&count_private=true&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide=issues" />
-        </a>
-    </p>
 
-    <p>
-        <a href=""> <img height="180em" align="center"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaojoaovf&hide=jupyter%20notebook&layout=compact&hide_border=true&theme=transparent&count_private=true&show_icons=true"></a>
-
-    </p>
+    <a href="">
+        <img align="center" height="180em"
+            src="https://github-readme-stats.vercel.app/api?username=joaojoaovf&layout=compact&theme=transparent&hide_border=true&count_private=true&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide=issues" />
+    </a>
+    <a href=""> <img height="180em" align="center"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaojoaovf&hide=jupyter%20notebook&layout=compact&hide_border=true&theme=transparent&count_private=true&show_icons=true"></a>
 
 </div>
 
