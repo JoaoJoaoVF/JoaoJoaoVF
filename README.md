@@ -33,7 +33,7 @@ I am currently working as a research intern at [Wireless Networks Lab (WINET)](h
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 
 ## GitHub Stats
-<div align="center">
+<!-- <div align="center">
 
     <a href="https://github.com/joaojoaovf">
         <img align="center" height="180em"
@@ -42,13 +42,15 @@ I am currently working as a research intern at [Wireless Networks Lab (WINET)](h
     <a href="https://github.com/joaojoaovf"> <img height="180em" align="center"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaojoaovf&hide=jupyter%20notebook&layout=compact&hide_border=true&theme=transparent&count_private=true&show_icons=true"></a>
 
-</div>
+</div> -->
 
 <div>
     <a href="https://github.com/joaojoaovf">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaojoaovf&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_rank=true&hide=issues"/>
-    <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaojoaovf&theme=merko&layout=compact"/>
-  </div>
+        <img height="180em"
+            src="https://github-readme-stats.vercel.app/api?username=joaojoaovf&layout=compact&theme=transparent&hide_border=true&count_private=true&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide=issues" />
+        <img heigth="180em"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaojoaovf&hide=jupyter%20notebook&layout=compact&hide_border=true&theme=transparent&count_private=true&show_icons=true">
+</div>
 
 ## Social Networks
 <a href="https://www.linkedin.com/in/joao-vitor-ferreira-" target="_blank">
