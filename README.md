@@ -1,4 +1,4 @@
-<h1 align="left">Hi there 👋, I'm João Vitor Ferreira</h1>
+[<h1 align="left">Hi there 👋, I'm João Vitor Ferreira</h1>
 
 <a href="https://wakatime.com/@joaojoaovf">
     <img src="https://wakatime.com/badge/user/70b4fcb6-ef30-442e-a3ba-7f6b57d6f7e4.svg?style=social" alt="Wakatime">
@@ -51,3 +51,4 @@ I am currently working as a research intern at [Wireless Networks Lab (WINET)](h
 </a>
 
 ![Snake animation](https://github.com/JoaoJoaoVF/JoaoJoaoVF/blob/output/github-contribution-grid-snake.svg)
+](https://github.com/joaojoaovf)https://github.com/joaojoaovf
