@@ -5,8 +5,8 @@
 </a>
 
 ## About Me
-I am a third-year undergraduate student at [Universidade Federal de Minas Gerais (UFMG)](https://ufmg.br/).
-I am currently working as a research intern at [Wireless Networks Lab (WINET)](https://www.winet.dcc.ufmg.br/).
+- I am a third-year undergraduate student at [Universidade Federal de Minas Gerais (UFMG)](https://ufmg.br/).
+- I am currently working as a research intern at [Wireless Networks Lab (WINET)](https://www.winet.dcc.ufmg.br/).
 
 ## Current Learning
 <code><img height="45"
@@ -33,17 +33,6 @@ I am currently working as a research intern at [Wireless Networks Lab (WINET)](h
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 
 ## GitHub Stats
-<!-- <div align="center">
-
-    <a href="https://github.com/joaojoaovf">
-        <img align="center" height="180em"
-            src="https://github-readme-stats.vercel.app/api?username=joaojoaovf&layout=compact&theme=transparent&hide_border=true&count_private=true&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide=issues" />
-    </a>
-    <a href="https://github.com/joaojoaovf"> <img height="180em" align="center"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaojoaovf&hide=jupyter%20notebook&layout=compact&hide_border=true&theme=transparent&count_private=true&show_icons=true"></a>
-
-</div> -->
-
 <div>
     <a href="https://github.com/joaojoaovf">
         <img height="180em"
@@ -58,4 +47,4 @@ I am currently working as a research intern at [Wireless Networks Lab (WINET)](h
         width="40" height="32" alt="linkedin logo" />
 </a>
 
-![Snake animation](https://github.com/JoaoJoaoVF/JoaoJoaoVF/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/joaojoaovf/joaojoaovf/blob/output/github-contribution-grid-snake.svg)
