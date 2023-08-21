@@ -1,4 +1,4 @@
-[<h1 align="left">Hi there 👋, I'm João Vitor Ferreira</h1>
+<h1 align="left">Hi there 👋, I'm João Vitor Ferreira</h1>
 
 <a href="https://wakatime.com/@joaojoaovf">
     <img src="https://wakatime.com/badge/user/70b4fcb6-ef30-442e-a3ba-7f6b57d6f7e4.svg?style=social" alt="Wakatime">
@@ -35,14 +35,20 @@ I am currently working as a research intern at [Wireless Networks Lab (WINET)](h
 ## GitHub Stats
 <div align="center">
 
-    <a href="">
+    <a href="https://github.com/joaojoaovf">
         <img align="center" height="180em"
             src="https://github-readme-stats.vercel.app/api?username=joaojoaovf&layout=compact&theme=transparent&hide_border=true&count_private=true&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide=issues" />
     </a>
-    <a href=""> <img height="180em" align="center"
+    <a href="https://github.com/joaojoaovf"> <img height="180em" align="center"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaojoaovf&hide=jupyter%20notebook&layout=compact&hide_border=true&theme=transparent&count_private=true&show_icons=true"></a>
 
 </div>
+
+<div>
+    <a href="https://github.com/joaojoaovf">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaojoaovf&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_rank=true&hide=issues"/>
+    <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaojoaovf&theme=merko&layout=compact"/>
+  </div>
 
 ## Social Networks
 <a href="https://www.linkedin.com/in/joao-vitor-ferreira-" target="_blank">
@@ -51,4 +57,3 @@ I am currently working as a research intern at [Wireless Networks Lab (WINET)](h
 </a>
 
 ![Snake animation](https://github.com/JoaoJoaoVF/JoaoJoaoVF/blob/output/github-contribution-grid-snake.svg)
-](https://github.com/joaojoaovf)https://github.com/joaojoaovf
